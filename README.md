@@ -2,7 +2,7 @@
 
 This a python program that displays Hello World. I create this to show how to use Visual Studio Code, Python and Github.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/93M4093-fM0)
 
 # Development Environment
 
